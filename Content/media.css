@@ -1,0 +1,42 @@
+﻿
+/*-----Start  Media Query-------*/
+
+
+/*Mobile And Tablets */
+/*Exstra Small Screen (XS)*/
+@media (max-width:767px) {
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .subscribe .form-control {
+        margin: 20px auto;
+        width:400px;
+    }
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+        max-height: none;
+    }
+
+}
+
+/*Small Screen (SM)*/
+@media (min-width:768px) and (max-width:991px) {
+
+ 
+}
+/*Medium Screen (MD)*/
+@media (min-width:992px) and (max-width:1199px) {
+
+}
+
+/*Large Screen (Lg)*/
+@media (min-width:1200px) {
+
+   
+}
+
+
+
+
+/*-----End   Media Query-------*/

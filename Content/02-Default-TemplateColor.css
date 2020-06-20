@@ -1,0 +1,51 @@
+﻿body {
+}
+/*Start Default Themes برتقالي*/
+
+/*Active Link*/
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check {
+    background-color: #ffd800;
+}
+
+
+.navbar-inverse .navbar-brand span,
+.footer h3,
+.footer .copyright span,
+.statistics .stats:hover,
+.about h1 span,
+.testimonials span {
+    color: #ffd800;
+}
+
+
+
+.dropdown-menu {
+    border-top: 3px solid #ffd800;
+}
+
+.price_table .price_box:hover p,
+.option-box .color-option,
+.testimonials .carousel-indicators li.active {
+    border: 4px dashed #ffd800;
+}
+
+
+
+
+/*h1 {
+    color: #ffd800;
+}*/
+
+/*.h1 {
+    color: #ffd800;
+}*/
+
+
+
+/*End Default Themes*/

@@ -1,0 +1,53 @@
+﻿body {
+}
+/*Start Default Themes اخضر*/
+
+/*Active Link*/
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.option-box .gear-check {
+    background-color: #00ff21;
+}
+
+
+.navbar-inverse .navbar-brand span,
+.footer h3,
+.footer .copyright span,
+.statistics .stats:hover,
+.about h1 span,
+.testimonials span {
+    color: #00ff21;
+}
+
+
+
+.dropdown-menu {
+    border-top: 3px solid #00ff21;
+}
+
+.price_table .price_box:hover p,
+.option-box .color-option,
+.testimonials .carousel-indicators li.active {
+    border: 4px dashed #00ff21;
+}
+
+
+
+
+/*h1 {
+    color: #00ff21;
+}*/
+
+/*.h1 {
+    color: #00ff21;
+}*/
+
+
+
+
+
+/*End Default Themes*/
